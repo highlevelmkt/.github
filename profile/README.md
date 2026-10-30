@@ -10,7 +10,7 @@ Aqui publicamos **dados abertos** dos nossos estudos, com método, limites e lic
 
 | Repositório | O que tem |
 |---|---|
-| [barometro-ia-portugal](https://github.com/highlevelmkt/barometro-ia-portugal) | Barómetro HLM «Quem as IAs recomendam na sua cidade»: que empresas o ChatGPT, o Perplexity e o Resumo de IA do Google recomendam em cidades portuguesas, e de que fonte vem cada recomendação. Sem nomes de empresas. Licença CC BY 4.0. |
+| [barometro-ia-portugal](https://github.com/highlevelmkt/barometro-ia-portugal) | Barómetro HLM «Quem as IAs recomendam na sua cidade»: que empresas o ChatGPT, o Perplexity e o Resumo de IA do Google recomendam em cidades portuguesas, e de que fonte vem cada recomendação. Sem nomes de empresas. Licença CC BY 4.0. DOI [10.5281/zenodo.23801213](https://doi.org/10.5281/zenodo.23801213). |
 
 Relatório da edição n.º 1 (recolha a 29/10/2026): https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10
 
