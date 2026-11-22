@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="392" viewBox="0 0 1200 392">
-<title>O que a HLM faz: sites, SEO local, Perfil da Empresa no Google, CRM, apps PWA, Google Ads, Meta Ads e medição</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="578" viewBox="0 0 1200 578">
+<title>O que a HLM faz: sites, SEO local, Perfil da Empresa no Google, CRM, apps PWA, software à medida, automações, segurança, Google Ads, Meta Ads, medição e design</title>
 <style>.led{animation:lp 2s ease-in-out infinite}@keyframes lp{0%,100%{opacity:1}50%{opacity:.25}}@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}</style>
-<rect width="1200" height="392" rx="16" fill="#0a0a0b"/><g transform="translate(20 20)"><rect width="276" height="170" rx="12" fill="#111114" stroke="#26262c"/>
+<rect width="1200" height="578" rx="16" fill="#0a0a0b"/><g transform="translate(20 20)"><rect width="276" height="170" rx="12" fill="#111114" stroke="#26262c"/>
 <text x="20" y="40" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" fill="#f4f4f5"><tspan fill="#c27aff">@hlm/</tspan>sites</text>
 <text x="20" y="84" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">Sites à medida, rápidos e</text>
 <text x="20" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">feitos para pedir orçamento.</text>
@@ -37,24 +37,52 @@
 <circle class="led" style="animation-delay:1.00s" cx="26" cy="146" r="5" fill="#c27aff"/>
 <text x="40" y="151" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">online</text>
 <text x="256" y="151" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#4a4a52">pt-PT</text></g><g transform="translate(312 206)"><rect width="276" height="170" rx="12" fill="#111114" stroke="#26262c"/>
-<text x="20" y="40" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" fill="#f4f4f5"><tspan fill="#c27aff">@hlm/</tspan>google-ads</text>
-<text x="20" y="84" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">Campanhas de pesquisa para</text>
-<text x="20" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">quem já está a procurar.</text>
+<text x="20" y="40" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" fill="#f4f4f5"><tspan fill="#c27aff">@hlm/</tspan>software</text>
+<text x="20" y="84" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">Painéis, portais e programas</text>
+<text x="20" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">à medida, web e desktop.</text>
 <line x1="20" y1="126" x2="256" y2="126" stroke="#26262c"/>
 <circle class="led" style="animation-delay:1.25s" cx="26" cy="146" r="5" fill="#c27aff"/>
 <text x="40" y="151" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">online</text>
 <text x="256" y="151" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#4a4a52">pt-PT</text></g><g transform="translate(604 206)"><rect width="276" height="170" rx="12" fill="#111114" stroke="#26262c"/>
-<text x="20" y="40" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" fill="#f4f4f5"><tspan fill="#c27aff">@hlm/</tspan>meta-ads</text>
-<text x="20" y="84" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">Instagram e Facebook com</text>
-<text x="20" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">criativos feitos por nós.</text>
+<text x="20" y="40" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" fill="#f4f4f5"><tspan fill="#c27aff">@hlm/</tspan>automacoes</text>
+<text x="20" y="84" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">Integrações, bots e rotinas</text>
+<text x="20" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">que poupam trabalho manual.</text>
 <line x1="20" y1="126" x2="256" y2="126" stroke="#26262c"/>
 <circle class="led" style="animation-delay:1.50s" cx="26" cy="146" r="5" fill="#c27aff"/>
 <text x="40" y="151" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">online</text>
 <text x="256" y="151" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#4a4a52">pt-PT</text></g><g transform="translate(896 206)"><rect width="276" height="170" rx="12" fill="#111114" stroke="#26262c"/>
+<text x="20" y="40" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" fill="#f4f4f5"><tspan fill="#c27aff">@hlm/</tspan>seguranca</text>
+<text x="20" y="84" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">Cabeçalhos, SSL, vigia e</text>
+<text x="20" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">auditorias de sites e APIs.</text>
+<line x1="20" y1="126" x2="256" y2="126" stroke="#26262c"/>
+<circle class="led" style="animation-delay:1.75s" cx="26" cy="146" r="5" fill="#c27aff"/>
+<text x="40" y="151" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">online</text>
+<text x="256" y="151" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#4a4a52">pt-PT</text></g><g transform="translate(20 392)"><rect width="276" height="170" rx="12" fill="#111114" stroke="#26262c"/>
+<text x="20" y="40" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" fill="#f4f4f5"><tspan fill="#c27aff">@hlm/</tspan>google-ads</text>
+<text x="20" y="84" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">Campanhas de pesquisa para</text>
+<text x="20" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">quem já está a procurar.</text>
+<line x1="20" y1="126" x2="256" y2="126" stroke="#26262c"/>
+<circle class="led" style="animation-delay:2.00s" cx="26" cy="146" r="5" fill="#c27aff"/>
+<text x="40" y="151" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">online</text>
+<text x="256" y="151" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#4a4a52">pt-PT</text></g><g transform="translate(312 392)"><rect width="276" height="170" rx="12" fill="#111114" stroke="#26262c"/>
+<text x="20" y="40" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" fill="#f4f4f5"><tspan fill="#c27aff">@hlm/</tspan>meta-ads</text>
+<text x="20" y="84" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">Instagram e Facebook com</text>
+<text x="20" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">criativos feitos por nós.</text>
+<line x1="20" y1="126" x2="256" y2="126" stroke="#26262c"/>
+<circle class="led" style="animation-delay:2.25s" cx="26" cy="146" r="5" fill="#c27aff"/>
+<text x="40" y="151" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">online</text>
+<text x="256" y="151" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#4a4a52">pt-PT</text></g><g transform="translate(604 392)"><rect width="276" height="170" rx="12" fill="#111114" stroke="#26262c"/>
 <text x="20" y="40" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" fill="#f4f4f5"><tspan fill="#c27aff">@hlm/</tspan>tracking</text>
 <text x="20" y="84" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">GA4 e conversões, com</text>
 <text x="20" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">consentimento RGPD.</text>
 <line x1="20" y1="126" x2="256" y2="126" stroke="#26262c"/>
-<circle class="led" style="animation-delay:1.75s" cx="26" cy="146" r="5" fill="#c27aff"/>
+<circle class="led" style="animation-delay:2.50s" cx="26" cy="146" r="5" fill="#c27aff"/>
+<text x="40" y="151" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">online</text>
+<text x="256" y="151" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#4a4a52">pt-PT</text></g><g transform="translate(896 392)"><rect width="276" height="170" rx="12" fill="#111114" stroke="#26262c"/>
+<text x="20" y="40" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" fill="#f4f4f5"><tspan fill="#c27aff">@hlm/</tspan>design</text>
+<text x="20" y="84" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">Identidade, imagem e vídeo</text>
+<text x="20" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b94">com o pacote Adobe.</text>
+<line x1="20" y1="126" x2="256" y2="126" stroke="#26262c"/>
+<circle class="led" style="animation-delay:2.75s" cx="26" cy="146" r="5" fill="#c27aff"/>
 <text x="40" y="151" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">online</text>
 <text x="256" y="151" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#4a4a52">pt-PT</text></g></svg>

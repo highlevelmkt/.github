@@ -19,15 +19,18 @@ const hlm = {
   nome:     "High Level Marketing (HLM)",
   desde:    2020,
   base:     "São Domingos de Rana · Cascais · Grande Lisboa",
-  stack:    ["Next.js", "TypeScript", "React", "Tailwind", "Node.js", "Python"],
-  faz:      ["sites", "CRM", "apps PWA", "SEO local", "Google Ads", "Meta Ads"],
+  stack:    ["TypeScript", "Python", "SQL", "Next.js", "React", "Node.js", "Supabase"],
+  design:   ["Photoshop", "Illustrator", "Premiere Pro", "After Effects"],
+  faz:      ["sites", "CRM", "apps", "software", "automações", "segurança",
+             "SEO local", "Google Ads", "Meta Ads"],
   clientes: "pequenas empresas de obras e serviços",
   objetivo: "que o cliente certo encontre a empresa e peça orçamento",
 };
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,python,vercel,github&theme=dark" alt="Next.js, TypeScript, React, Tailwind, Node.js, Python, Vercel, GitHub" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,postgres,bash,powershell,nextjs,react,tailwind,nodejs,threejs,electron&theme=dark" alt="TypeScript, JavaScript, Python, PostgreSQL, Bash, PowerShell, Next.js, React, Tailwind, Node.js, Three.js, Electron" /><br />
+  <img src="https://skillicons.dev/icons?i=supabase,prisma,docker,githubactions,vercel,github,ps,ai,pr,ae&theme=dark" alt="Supabase, Prisma, Docker, GitHub Actions, Vercel, GitHub, Photoshop, Illustrator, Premiere Pro, After Effects" />
 </p>
 
 > A High Level Marketing (HLM) não tem qualquer ligação à plataforma HighLevel/GoHighLevel nem a empresas homónimas noutros países.
@@ -46,17 +49,31 @@ const hlm = {
 
 <img src="./assets/sec-modulos.svg" alt="03 O que fazemos" width="100%" />
 
-<img src="./assets/modulos.svg" alt="Sites, SEO local, Perfil da Empresa no Google, CRM, apps PWA, Google Ads, Meta Ads e medição" width="100%" />
+<img src="./assets/modulos.svg" alt="Sites, SEO local, Perfil da Empresa no Google, CRM, apps PWA, software à medida, automações, segurança, Google Ads, Meta Ads, medição e design" width="100%" />
 
 <br />
 
-<img src="./assets/sec-processo.svg" alt="04 Como trabalhamos" width="100%" />
+<img src="./assets/sec-stack.svg" alt="04 Linguagens e ferramentas" width="100%" />
+
+<img src="./assets/stack.svg" alt="Linguagens: TypeScript, JavaScript, Python, SQL, Shell, PowerShell. Frontend: Next.js, React, Tailwind CSS, GSAP, Three.js. Backend: Node.js, PostgreSQL, Supabase, Prisma, Stripe, Twilio. Apps: PWA, Electron, APIs, webhooks. Infra: Vercel, Docker, GitHub Actions. Marketing: GA4, Google Ads API, Meta API, Search Console. Design: Photoshop, Illustrator, Premiere Pro, After Effects" width="100%" />
+
+<br />
+
+<img src="./assets/sec-seguranca.svg" alt="05 Segurança" width="100%" />
+
+<img src="./assets/seguranca.svg" alt="HLM Shield: cabeçalhos de segurança, vigia de uptime, domínio, SSL e DNS verificados todos os dias, correções de dependências, auditorias de sites e APIs, RGPD" width="100%" />
+
+Todos os sites que mantemos têm o **HLM Shield**: cabeçalhos de segurança, vigia de uptime com alerta, verificação diária de domínio, SSL e DNS, e correções de segurança aplicadas por nós. Também fazemos auditorias de segurança a sites, APIs, logins e permissões.
+
+<br />
+
+<img src="./assets/sec-processo.svg" alt="06 Como trabalhamos" width="100%" />
 
 <img src="./assets/processo.svg" alt="Como trabalhamos: conversa, proposta, construção, publicação e acompanhamento" width="100%" />
 
 <br />
 
-<img src="./assets/sec-dados.svg" alt="05 Dados abertos" width="100%" />
+<img src="./assets/sec-dados.svg" alt="07 Dados abertos" width="100%" />
 
 <a href="https://github.com/highlevelmkt/barometro-ia-portugal"><img src="./assets/barometro.svg" alt="Barómetro IA Portugal: que empresas locais as IAs recomendam em cidades portuguesas, dados abertos CC BY 4.0" width="100%" /></a>
 
@@ -77,7 +94,7 @@ Publicamos **dados abertos** dos nossos estudos, com método, limites e licença
 
 <br />
 
-<img src="./assets/sec-contacto.svg" alt="06 Contacto" width="100%" />
+<img src="./assets/sec-contacto.svg" alt="08 Contacto" width="100%" />
 
 <p align="center">
   Tem uma empresa e quer ser encontrado por quem procura? Fale connosco.<br /><br />
@@ -110,4 +127,4 @@ Publicamos **dados abertos** dos nossos estudos, com método, limites e licença
 
 ---
 
-**English.** High Level Marketing (HLM) is a digital marketing and software agency working since 2020, based in São Domingos de Rana (Cascais, Portugal). It builds websites, CRMs and apps, and runs local SEO and search ads for small service businesses. Listed 1st in the SEO agencies and web designers categories of the Melhores de Lisboa guide (checked 22/11/2026). This organisation publishes open data from HLM studies, such as the HLM Barometer on which local businesses AI assistants recommend in Portuguese cities, with method, limits and a CC BY 4.0 licence. Not affiliated with HighLevel/GoHighLevel.
+**English.** High Level Marketing (HLM) is a digital marketing and software agency working since 2020, based in São Domingos de Rana (Cascais, Portugal). It builds websites, CRMs, apps, custom software and automations (TypeScript, Python, SQL), handles website security, design with the Adobe suite, and runs local SEO and search ads for small service businesses. Listed 1st in the SEO agencies and web designers categories of the Melhores de Lisboa guide (checked 22/11/2026). This organisation publishes open data from HLM studies, such as the HLM Barometer on which local businesses AI assistants recommend in Portuguese cities, with method, limits and a CC BY 4.0 licence. Not affiliated with HighLevel/GoHighLevel.
