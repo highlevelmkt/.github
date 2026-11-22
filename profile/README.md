@@ -60,7 +60,20 @@ const hlm = {
 
 <a href="https://github.com/highlevelmkt/barometro-ia-portugal"><img src="./assets/barometro.svg" alt="Barómetro IA Portugal: que empresas locais as IAs recomendam em cidades portuguesas, dados abertos CC BY 4.0" width="100%" /></a>
 
-Publicamos **dados abertos** dos nossos estudos, com método, limites e licença, para que jornalistas, investigadores e empresas os possam verificar e citar. Repositório: [barometro-ia-portugal](https://github.com/highlevelmkt/barometro-ia-portugal) · DOI [10.5281/zenodo.23801213](https://doi.org/10.5281/zenodo.23801213) · [relatório da edição n.º 1](https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10).
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/highlevelmkt/custo-pedido-orcamento-google-portugal"><img src="./assets/dados-custo.svg" alt="Quanto custa um pedido de orçamento no Google: 14,28 € por pedido nas obras, 8 contas de Google Ads, 2026" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/highlevelmkt/pesquisas-servicos-locais-portugal"><img src="./assets/dados-pesquisas.svg" alt="O que as pessoas escrevem no Google antes de contratar: 2 281 pesquisas, 6,7 cliques em cada 100 com serviço e zona" width="100%" /></a></td>
+  </tr>
+</table>
+
+Publicamos **dados abertos** dos nossos estudos, com método, limites e licença CC BY 4.0, para que jornalistas, investigadores e empresas os possam verificar e citar.
+
+| Repositório | Estudo | Relatório |
+|---|---|---|
+| [barometro-ia-portugal](https://github.com/highlevelmkt/barometro-ia-portugal) | Que empresas locais o ChatGPT, o Perplexity e o Resumo de IA do Google recomendam. DOI [10.5281/zenodo.23801213](https://doi.org/10.5281/zenodo.23801213) | [edição n.º 1](https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10) |
+| [custo-pedido-orcamento-google-portugal](https://github.com/highlevelmkt/custo-pedido-orcamento-google-portugal) | Quanto custa um pedido de orçamento no Google Ads: 8 contas de obras e serviços, 90 dias | [relatório](https://www.highlevelmkt.com/relatorios/custo-pedido-orcamento-google-obras-2026) |
+| [pesquisas-servicos-locais-portugal](https://github.com/highlevelmkt/pesquisas-servicos-locais-portugal) | O que as pessoas escrevem no Google antes de contratar: 2 281 pesquisas do Search Console | [relatório](https://www.highlevelmkt.com/relatorios/pesquisas-servicos-locais-2026) |
 
 <br />
 

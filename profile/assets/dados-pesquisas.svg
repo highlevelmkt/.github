@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="390" viewBox="0 0 600 390">
+<title>O que as pessoas escrevem antes de contratar</title>
+<defs><linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#9810fa"/><stop offset="1" stop-color="#c27aff"/></linearGradient></defs>
+<style>.b{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:g 1s cubic-bezier(.2,.8,.2,1) forwards}@keyframes g{to{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){.b{animation:none;transform:none}}</style>
+<rect width="600" height="390" rx="16" fill="#0a0a0b"/>
+<rect x=".5" y=".5" width="599" height="389" rx="16" fill="none" stroke="#26262c"/>
+<text x="28" y="42" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f4f4f5"><tspan fill="#c27aff">highlevelmkt/</tspan>pesquisas-servicos-locais-portugal</text>
+<text x="28" y="74" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2" fill="#c27aff">SEARCH CONSOLE · 2 281 PESQUISAS</text>
+<text x="28" y="108" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="25" letter-spacing="-.5" fill="#f4f4f5">O que as pessoas escrevem</text>
+<text x="28" y="138" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="25" letter-spacing="-.5" fill="#f4f4f5">antes de contratar</text>
+<text x="28" y="192" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="34" fill="#c27aff">6,7</text>
+<text x="93" y="192" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b8b94">cliques/100 · serviço + zona</text>
+<text x="28" y="236" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b8b94">preço</text>
+<rect x="250" y="226" width="230" height="10" rx="5" fill="#111114"/>
+<rect class="b" style="animation-delay:0.20s" x="250" y="226" width="154" height="10" rx="5" fill="url(#bg)"/>
+<text x="572" y="236" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f4f4f5">4,5</text><text x="28" y="266" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b8b94">só o serviço</text>
+<rect x="250" y="256" width="230" height="10" rx="5" fill="#111114"/>
+<rect class="b" style="animation-delay:0.35s" x="250" y="256" width="93" height="10" rx="5" fill="url(#bg)"/>
+<text x="572" y="266" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f4f4f5">2,7</text><text x="28" y="296" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b8b94">«perto de mim»</text>
+<rect x="250" y="286" width="230" height="10" rx="5" fill="#111114"/>
+<rect class="b" style="animation-delay:0.50s" x="250" y="286" width="58" height="10" rx="5" fill="url(#bg)"/>
+<text x="572" y="296" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f4f4f5">1,7</text><text x="28" y="326" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b8b94">dúvida</text>
+<rect x="250" y="316" width="230" height="10" rx="5" fill="#111114"/>
+<rect class="b" style="animation-delay:0.65s" x="250" y="316" width="14" height="10" rx="5" fill="url(#bg)"/>
+<text x="572" y="326" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f4f4f5">0,4</text>
+<line x1="28" y1="340" x2="572" y2="340" stroke="#26262c"/>
+<text x="28" y="366" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#4a4a52">21 sites · 27/07–24/10/2026 · CSV + JSON</text>
+<text x="572" y="366" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#c27aff">CC BY 4.0 ↗</text>
+</svg>
