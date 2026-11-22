@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
+<title>02 rankings e imprensa</title>
+<rect width="1200" height="80" rx="12" fill="#0a0a0b"/>
+<rect x=".5" y=".5" width="1199" height="79" rx="12" fill="none" stroke="#26262c"/>
+<rect x="0" y="0" width="52" height="80" rx="12" fill="#111114"/><rect x="40" y="0" width="12" height="80" fill="#111114"/>
+<text x="26" y="47" text-anchor="middle" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#4a4a52">02</text>
+<text x="70" y="51" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="700" fill="#c27aff">&lt;<tspan fill="#f4f4f5">NoTopo</tspan> /&gt;</text>
+<text x="270" y="49" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#8b8b94">// rankings e imprensa</text>
+<rect x="1150" y="32" width="10" height="16" fill="#9810fa"><animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>
+</svg>

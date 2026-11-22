@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<title>PME Magazine (SAPO), 26/10/2026: «Quatro testes de dez minutos para saber se o seu site está a perder clientes», artigo de opinião de Vinicius Oliveira</title>
+<defs><linearGradient id="pb" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#9810fa"/><stop offset="1" stop-color="#3b0764"/></linearGradient></defs>
+<rect width="1200" height="250" rx="16" fill="#0a0a0b"/>
+<rect x=".5" y=".5" width="1199" height="249" rx="16" fill="none" stroke="#26262c"/>
+<path d="M16 0H300V250H16A16 16 0 0 1 0 234V16A16 16 0 0 1 16 0z" fill="url(#pb)"/>
+<text x="40" y="70" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="3" fill="#fff" opacity=".8">NA IMPRENSA</text>
+<text x="38" y="138" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="44" letter-spacing="-1" fill="#fff">PME</text>
+<text x="38" y="180" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="44" letter-spacing="-1" fill="#fff">Magazine</text>
+<text x="40" y="214" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#fff" opacity=".8">SAPO · 26/10/2026</text>
+<text x="340" y="66" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#c27aff">ARTIGO DE OPINIÃO · VINICIUS OLIVEIRA</text>
+<text x="340" y="116" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="31" letter-spacing="-.5" fill="#f4f4f5">Quatro testes de dez minutos para saber</text>
+<text x="340" y="154" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="31" letter-spacing="-.5" fill="#f4f4f5">se o seu site está a perder clientes</text>
+<text x="340" y="206" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8b8b94">pmemagazine.sapo.pt</text>
+<g transform="translate(1104 172)"><circle cx="28" cy="28" r="28" fill="#9810fa"/><path d="M19 37 37 19M23 19h14v14" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/></g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<title>HLM listada no guia Melhores de Lisboa: 1.º em Agências de SEO, 1.º em Designers web, 2.º em Agências de web design, 4.º em Agências de marketing digital</title>
+<defs><linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#9810fa"/><stop offset="1" stop-color="#c27aff"/></linearGradient></defs>
+<style>.bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:gr 1.1s cubic-bezier(.2,.8,.2,1) forwards}@keyframes gr{to{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}.bar{}@media (prefers-reduced-motion:reduce){.bar{transform:none}}</style>
+<rect width="1200" height="400" rx="16" fill="#0a0a0b"/>
+<rect x=".5" y=".5" width="1199" height="399" rx="16" fill="none" stroke="#26262c"/>
+<path d="M16 .5h1168a15.5 15.5 0 0 1 15.5 15.5v22H.5V16A15.5 15.5 0 0 1 16 .5z" fill="#111114"/>
+<line x1="0" y1="38" x2="1200" y2="38" stroke="#26262c"/>
+<circle cx="24" cy="19" r="6" fill="#4a4a52"/><circle cx="44" cy="19" r="6" fill="#4a4a52"/><circle cx="64" cy="19" r="6" fill="#9810fa"/>
+<text x="600.0" y="24" text-anchor="middle" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">hlm rankings --fonte melhoreslisboa.pt</text>
+<text x="40" y="72" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#f4f4f5"><tspan fill="#c27aff">$</tspan> hlm rankings --cidade lisboa</text>
+<g>
+<text x="40" y="124" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="40" fill="#c27aff">#1</text>
+<text x="130" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="20" fill="#f4f4f5">Agências de SEO</text>
+<text x="130" y="136" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b8b94">1.º de 5 · Lisboa</text>
+<rect x="640" y="104" width="420" height="14" rx="7" fill="#17171c"/>
+<rect class="bar" style="animation-delay:0.3s" x="640" y="104" width="420" height="14" rx="7" fill="url(#bg)"/>
+<text x="1160" y="116" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#c27aff">TOP 1</text>
+</g><g>
+<text x="40" y="186" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="40" fill="#c27aff">#1</text>
+<text x="130" y="174" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="20" fill="#f4f4f5">Designers web</text>
+<text x="130" y="198" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b8b94">1.º de 5 · Lisboa</text>
+<rect x="640" y="166" width="420" height="14" rx="7" fill="#17171c"/>
+<rect class="bar" style="animation-delay:0.5s" x="640" y="166" width="420" height="14" rx="7" fill="url(#bg)"/>
+<text x="1160" y="178" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#c27aff">TOP 1</text>
+</g><g>
+<text x="40" y="248" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="40" fill="#f4f4f5">#2</text>
+<text x="130" y="236" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="20" fill="#f4f4f5">Agências de web design</text>
+<text x="130" y="260" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b8b94">2.º de 16 · Lisboa</text>
+<rect x="640" y="228" width="420" height="14" rx="7" fill="#17171c"/>
+<rect class="bar" style="animation-delay:0.7s" x="640" y="228" width="394" height="14" rx="7" fill="url(#bg)"/>
+<text x="1160" y="240" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8b8b94">TOP 2</text>
+</g><g>
+<text x="40" y="310" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="40" fill="#f4f4f5">#4</text>
+<text x="130" y="298" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="20" fill="#f4f4f5">Agências de marketing digital</text>
+<text x="130" y="322" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b8b94">4.º de 16 · Lisboa</text>
+<rect x="640" y="290" width="420" height="14" rx="7" fill="#17171c"/>
+<rect class="bar" style="animation-delay:0.9s" x="640" y="290" width="341" height="14" rx="7" fill="url(#bg)"/>
+<text x="1160" y="302" text-anchor="end" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8b8b94">TOP 4</text>
+</g>
+<line x1="40" y1="352" x2="1160" y2="352" stroke="#26262c"/>
+<text x="40" y="378" font-family="'SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b8b94">fonte: guia Melhores de Lisboa (melhoreslisboa.pt) · verificado a 22/11/2026</text>
+</svg>
