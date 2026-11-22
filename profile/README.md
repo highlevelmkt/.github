@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.highlevelmkt.com"><img src="https://img.shields.io/badge/SITE-highlevelmkt.com-9810fa?style=for-the-badge&labelColor=0a0a0b" alt="Site" /></a>
   <a href="https://wa.me/351934071660"><img src="https://img.shields.io/badge/WHATSAPP-%2B351_934_071_660-9810fa?style=for-the-badge&logo=whatsapp&logoColor=c27aff&labelColor=0a0a0b" alt="WhatsApp" /></a>
-  <a href="https://www.linkedin.com/company/high-levelmarketing/"><img src="https://img.shields.io/badge/LINKEDIN-HLM-9810fa?style=for-the-badge&logo=linkedin&logoColor=c27aff&labelColor=0a0a0b" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/company/highlevelmkt/"><img src="https://img.shields.io/badge/LINKEDIN-HLM-9810fa?style=for-the-badge&logo=linkedin&logoColor=c27aff&labelColor=0a0a0b" alt="LinkedIn" /></a>
 </p>
 
 <br />
@@ -104,8 +104,8 @@ Publicamos **dados abertos** dos nossos estudos, com método, limites e licença
   Tem uma empresa e quer ser encontrado por quem procura? Fale connosco.<br /><br />
   <a href="https://wa.me/351934071660"><img src="https://img.shields.io/badge/WhatsApp-0a0a0b?style=for-the-badge&logo=whatsapp&logoColor=c27aff" alt="WhatsApp" /></a>
   <a href="mailto:geral@highlevelmkt.com"><img src="https://img.shields.io/badge/Email-0a0a0b?style=for-the-badge&logo=maildotru&logoColor=c27aff" alt="Email" /></a>
-  <a href="https://www.instagram.com/mkthighlevel/"><img src="https://img.shields.io/badge/Instagram-0a0a0b?style=for-the-badge&logo=instagram&logoColor=c27aff" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/company/high-levelmarketing/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0b?style=for-the-badge&logo=linkedin&logoColor=c27aff" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/highlevelmkt/"><img src="https://img.shields.io/badge/Instagram-0a0a0b?style=for-the-badge&logo=instagram&logoColor=c27aff" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/company/highlevelmkt/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0b?style=for-the-badge&logo=linkedin&logoColor=c27aff" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@highlevelmkt"><img src="https://img.shields.io/badge/YouTube-0a0a0b?style=for-the-badge&logo=youtube&logoColor=c27aff" alt="YouTube" /></a>
   <a href="https://www.highlevelmkt.com"><img src="https://img.shields.io/badge/Site-9810fa?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Site" /></a>
 </p>
@@ -116,8 +116,8 @@ Publicamos **dados abertos** dos nossos estudos, com método, limites e licença
 - Site: https://www.highlevelmkt.com
 - Sobre a HLM: https://www.highlevelmkt.com/sobre-a-hlm
 - Imprensa e contacto para jornalistas: https://www.highlevelmkt.com/imprensa
-- LinkedIn: https://www.linkedin.com/company/high-levelmarketing/
-- Instagram: https://www.instagram.com/mkthighlevel/
+- LinkedIn: https://www.linkedin.com/company/highlevelmkt/
+- Instagram: https://www.instagram.com/highlevelmkt/
 - YouTube: https://www.youtube.com/@highlevelmkt
 - Trustpilot: https://www.trustpilot.com/review/highlevelmkt.com
 - Email: geral@highlevelmkt.com
