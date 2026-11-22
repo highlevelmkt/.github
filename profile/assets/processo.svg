@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+<title>Como trabalhamos: conversa, proposta, construção e acompanhamento</title>
+<style>.dot{animation:m 5s ease-in-out infinite}@keyframes m{0%{transform:translateX(0)}100%{transform:translateX(876px)}}@media (prefers-reduced-motion:reduce){.dot{animation:none}}</style>
+<rect width="1200" height="240" rx="16" fill="#0a0a0a"/>
+<line x1="72" y1="60" x2="948" y2="60" stroke="#2a2a2e" stroke-width="2" stroke-dasharray="4 6"/>
+<g transform="translate(20 20)"><rect width="276" height="200" rx="12" fill="#141416" stroke="#2a2a2e"/>
+<circle cx="36" cy="40" r="16" fill="#0a0a0a" stroke="#c27aff" stroke-width="2"/><text x="36" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c27aff">1</text>
+<text x="20" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="24" fill="#f5f5f0">Conversa</text>
+<text x="20" y="146" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8d8d93">Percebemos o negócio, a zona</text>
+<text x="20" y="168" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8d8d93">e o tipo de cliente que quer.</text></g><g transform="translate(312 20)"><rect width="276" height="200" rx="12" fill="#141416" stroke="#2a2a2e"/>
+<circle cx="36" cy="40" r="16" fill="#0a0a0a" stroke="#c27aff" stroke-width="2"/><text x="36" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c27aff">2</text>
+<text x="20" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="24" fill="#f5f5f0">Proposta</text>
+<text x="20" y="146" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8d8d93">Por escrito, com o que está</text>
+<text x="20" y="168" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8d8d93">incluído e o que não está.</text></g><g transform="translate(604 20)"><rect width="276" height="200" rx="12" fill="#141416" stroke="#2a2a2e"/>
+<circle cx="36" cy="40" r="16" fill="#0a0a0a" stroke="#c27aff" stroke-width="2"/><text x="36" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c27aff">3</text>
+<text x="20" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="24" fill="#f5f5f0">Construção</text>
+<text x="20" y="146" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8d8d93">Site, Perfil no Google e medição</text>
+<text x="20" y="168" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8d8d93">a funcionar, sem pontas soltas.</text></g><g transform="translate(896 20)"><rect width="276" height="200" rx="12" fill="#141416" stroke="#2a2a2e"/>
+<circle cx="36" cy="40" r="16" fill="#0a0a0a" stroke="#c27aff" stroke-width="2"/><text x="36" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c27aff">4</text>
+<text x="20" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="24" fill="#f5f5f0">Acompanhamento</text>
+<text x="20" y="146" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8d8d93">Vemos os dados e ajustamos</text>
+<text x="20" y="168" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#8d8d93">o que não está a render.</text></g>
+<circle class="dot" cx="72" cy="60" r="5" fill="#c27aff"/>
+</svg>

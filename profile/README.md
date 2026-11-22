@@ -3,9 +3,9 @@
 </a>
 
 <p align="center">
-  <a href="https://www.highlevelmkt.com"><img src="https://img.shields.io/badge/SITE-highlevelmkt.com-e1551c?style=for-the-badge&labelColor=0a0a0a" alt="Site" /></a>
-  <a href="https://wa.me/351934071660"><img src="https://img.shields.io/badge/WHATSAPP-%2B351_934_071_660-e1551c?style=for-the-badge&logo=whatsapp&logoColor=e1551c&labelColor=0a0a0a" alt="WhatsApp" /></a>
-  <a href="https://www.linkedin.com/company/high-levelmarketing/"><img src="https://img.shields.io/badge/LINKEDIN-HLM-e1551c?style=for-the-badge&logo=linkedin&logoColor=e1551c&labelColor=0a0a0a" alt="LinkedIn" /></a>
+  <a href="https://www.highlevelmkt.com"><img src="https://img.shields.io/badge/SITE-highlevelmkt.com-9810fa?style=for-the-badge&labelColor=0a0a0a" alt="Site" /></a>
+  <a href="https://wa.me/351934071660"><img src="https://img.shields.io/badge/WHATSAPP-%2B351_934_071_660-9810fa?style=for-the-badge&logo=whatsapp&logoColor=c27aff&labelColor=0a0a0a" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/company/high-levelmarketing/"><img src="https://img.shields.io/badge/LINKEDIN-HLM-9810fa?style=for-the-badge&logo=linkedin&logoColor=c27aff&labelColor=0a0a0a" alt="LinkedIn" /></a>
 </p>
 
 <br />
@@ -35,28 +35,9 @@ const hlm = {
 
 <br />
 
-<img src="./assets/sec-sites.svg" alt="03 Sites no ar" width="100%" />
+<img src="./assets/sec-processo.svg" alt="03 Como trabalhamos" width="100%" />
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://latinagrill.pt"><img src="./assets/site-latinagrill.svg" alt="Latina Grill, restaurante" width="100%" /></a></td>
-    <td width="50%"><a href="https://modularconstrucao.pt"><img src="./assets/site-modular.svg" alt="Modular, casas modulares" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://rjvertical.com"><img src="./assets/site-rjvertical.svg" alt="RJ Vertical, trabalhos verticais" width="100%" /></a></td>
-    <td width="50%"><a href="https://www.telhadosrenovados.pt"><img src="./assets/site-telhadosrenovados.svg" alt="Telhados Renovados, telhados" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://maccariengenharia.pt"><img src="./assets/site-maccari.svg" alt="Maccari Engenharia, engenharia eletrotécnica" width="100%" /></a></td>
-    <td width="50%"><a href="https://carlosroquepinturas.pt"><img src="./assets/site-carlosroque.svg" alt="Carlos Roque Pinturas, pinturas e acabamentos" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://formareta.pt"><img src="./assets/site-formareta.svg" alt="Forma Reta, reabilitação de edifícios" width="100%" /></a></td>
-    <td width="50%"><a href="https://www.oliveiraisolamentos.pt"><img src="./assets/site-oliveira.svg" alt="Oliveira Isolamentos, isolamentos e ETICS" width="100%" /></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://www.highlevelmkt.com/criacao-de-sites"><img src="https://img.shields.io/badge/VER_TODOS_OS_PROJETOS-0a0a0a?style=for-the-badge&logoColor=e1551c" alt="Ver todos os projetos" /></a></p>
+<img src="./assets/processo.svg" alt="Como trabalhamos: conversa, proposta, construção e acompanhamento" width="100%" />
 
 <br />
 
@@ -87,12 +68,12 @@ Licença CC BY 4.0 · DOI [10.5281/zenodo.23801213](https://doi.org/10.5281/zeno
 
 <p align="center">
   Tem uma empresa e quer ser encontrado por quem procura? Fale connosco.<br /><br />
-  <a href="https://wa.me/351934071660"><img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=e1551c" alt="WhatsApp" /></a>
-  <a href="mailto:geral@highlevelmkt.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=maildotru&logoColor=e1551c" alt="Email" /></a>
-  <a href="https://www.instagram.com/mkthighlevel/"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=e1551c" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/company/high-levelmarketing/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e1551c" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@highlevelmkt"><img src="https://img.shields.io/badge/YouTube-0a0a0a?style=for-the-badge&logo=youtube&logoColor=e1551c" alt="YouTube" /></a>
-  <a href="https://www.highlevelmkt.com"><img src="https://img.shields.io/badge/Site-e1551c?style=for-the-badge&logo=googlechrome&logoColor=0a0a0a" alt="Site" /></a>
+  <a href="https://wa.me/351934071660"><img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=c27aff" alt="WhatsApp" /></a>
+  <a href="mailto:geral@highlevelmkt.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=maildotru&logoColor=c27aff" alt="Email" /></a>
+  <a href="https://www.instagram.com/mkthighlevel/"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=c27aff" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/company/high-levelmarketing/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=c27aff" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@highlevelmkt"><img src="https://img.shields.io/badge/YouTube-0a0a0a?style=for-the-badge&logo=youtube&logoColor=c27aff" alt="YouTube" /></a>
+  <a href="https://www.highlevelmkt.com"><img src="https://img.shields.io/badge/Site-9810fa?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Site" /></a>
 </p>
 
 <details>
