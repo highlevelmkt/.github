@@ -19,19 +19,22 @@ const hlm = {
   nome:     "High Level Marketing (HLM)",
   desde:    2020,
   base:     "São Domingos de Rana · Cascais · Grande Lisboa",
-  stack:    ["TypeScript", "Python", "SQL", "Next.js", "React", "Node.js", "Supabase"],
+  stack:    ["TypeScript", "JavaScript", "Python", "C++", "C#", "SQL",
+             "Next.js", "React", "Vue", "Node.js", "FastAPI", "PHP",
+             "Laravel", "WordPress"],
   design:   ["Photoshop", "Illustrator", "Premiere Pro", "After Effects",
              "Lightroom", "InDesign", "Figma"],
   faz:      ["sites", "CRM", "apps", "software", "automações", "segurança",
-             "SEO local", "Google Ads", "Meta Ads"],
+             "SEO local", "Google Ads", "Meta Ads", "TikTok Ads",
+             "LinkedIn Ads", "YouTube Ads", "Microsoft Ads"],
   clientes: "pequenas empresas de obras e serviços",
   objetivo: "que o cliente certo encontre a empresa e peça orçamento",
 };
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,postgres,bash,powershell,nextjs,react,tailwind,nodejs,threejs,electron&theme=dark" alt="TypeScript, JavaScript, Python, PostgreSQL, Bash, PowerShell, Next.js, React, Tailwind, Node.js, Three.js, Electron" /><br />
-  <img src="https://skillicons.dev/icons?i=supabase,prisma,docker,githubactions,vercel,github,ps,ai,pr,ae,figma&theme=dark" alt="Supabase, Prisma, Docker, GitHub Actions, Vercel, GitHub, Photoshop, Illustrator, Premiere Pro, After Effects, Figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,cs,postgres,bash,powershell,nextjs,react,tailwind,nodejs,threejs,electron&theme=dark" alt="TypeScript, JavaScript, Python, C++, C#, PostgreSQL, Bash, PowerShell, Next.js, React, Tailwind, Node.js, Three.js, Electron" /><br />
+  <img src="https://skillicons.dev/icons?i=fastapi,wordpress,supabase,prisma,docker,githubactions,vercel,github,ps,ai,pr,ae,figma&theme=dark" alt="FastAPI, WordPress, Supabase, Prisma, Docker, GitHub Actions, Vercel, GitHub, Photoshop, Illustrator, Premiere Pro, After Effects, Figma" />
 </p>
 
 > A High Level Marketing (HLM) não tem qualquer ligação à plataforma HighLevel/GoHighLevel nem a empresas homónimas noutros países.
@@ -50,13 +53,13 @@ const hlm = {
 
 <img src="./assets/sec-modulos.svg" alt="03 O que fazemos" width="100%" />
 
-<img src="./assets/modulos.svg" alt="Sites, SEO local, Perfil da Empresa no Google, CRM, apps PWA, software à medida, automações, segurança, Google Ads, Meta Ads, medição e design" width="100%" />
+<img src="./assets/modulos.svg" alt="Sites, SEO local, Perfil da Empresa no Google, CRM, apps PWA, software à medida, automações, segurança, anúncios em Google, Meta, TikTok, LinkedIn e outras plataformas, medição e design" width="100%" />
 
 <br />
 
 <img src="./assets/sec-stack.svg" alt="04 Linguagens e ferramentas" width="100%" />
 
-<img src="./assets/stack.svg" alt="Linguagens: TypeScript, JavaScript, Python, SQL, Shell, PowerShell. Frontend: Next.js, React, Tailwind CSS, GSAP, Three.js. Backend: Node.js, PostgreSQL, Supabase, Prisma, Stripe, Twilio. Apps: PWA, Electron, APIs, webhooks. Infra: Vercel, Docker, GitHub Actions. Marketing: GA4, Google Ads API, Meta API, Search Console. Design: Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, InDesign, Figma" width="100%" />
+<img src="./assets/stack.svg" alt="Linguagens: TypeScript, JavaScript, Python, C++, C#, HTML, CSS, SQL, Shell, PowerShell. Frontend: Next.js, React, Vue, Tailwind, Sass, Bootstrap, Vite, Framer Motion, shadcn/ui, GSAP, Three.js, WordPress. Backend: Node.js, Express, FastAPI, Flask, PHP, Laravel, PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase. Integrações: Prisma, GraphQL, APIs REST, Zod, Stripe, PayPal, Twilio, Resend. IA e automação: Claude, ChatGPT, Gemini, Grok, Perplexity, PyTorch, ElevenLabs, Playwright, pytest, bots. Apps e infra: PWA, Electron, Vercel, Docker, GitHub Actions, Git, VS Code, Linux, SSL e DNS. Anúncios: Google Ads, Meta Ads, TikTok Ads, LinkedIn Ads, YouTube Ads, Microsoft Ads, Pinterest Ads, Snapchat Ads, X Ads, Reddit Ads, Amazon Ads, ChatGPT Ads. Medição e SEO: GA4, Tag Manager, Search Console, Bing Webmaster, Looker Studio, Hotjar, Semrush, Sheets. Contacto e reputação: WhatsApp, Instagram, Messenger, Gmail, Google Maps, Trustpilot, Mailchimp, HubSpot, Calendly. Design e vídeo: Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, InDesign, Figma, Canva, Remotion" width="100%" />
 
 <br />
 
@@ -128,4 +131,4 @@ Publicamos **dados abertos** dos nossos estudos, com método, limites e licença
 
 ---
 
-**English.** High Level Marketing (HLM) is a digital marketing and software agency working since 2020, based in São Domingos de Rana (Cascais, Portugal). It builds websites, CRMs, apps, custom software and automations (TypeScript, Python, SQL), handles website security, design with the Adobe suite and Figma, and runs local SEO and search ads for small service businesses. Listed 1st in the SEO agencies and web designers categories of the Melhores de Lisboa guide (checked 22/11/2026). This organisation publishes open data from HLM studies, such as the HLM Barometer on which local businesses AI assistants recommend in Portuguese cities, with method, limits and a CC BY 4.0 licence. Not affiliated with HighLevel/GoHighLevel.
+**English.** High Level Marketing (HLM) is a digital marketing and software agency working since 2020, based in São Domingos de Rana (Cascais, Portugal). It builds websites, CRMs, apps, custom software and automations (TypeScript, JavaScript, Python, C++, C#, SQL, WordPress), handles website security, design with the Adobe suite and Figma, and runs local SEO and ads on Google, Meta, TikTok, LinkedIn and other platforms for small service businesses. Listed 1st in the SEO agencies and web designers categories of the Melhores de Lisboa guide (checked 22/11/2026). This organisation publishes open data from HLM studies, such as the HLM Barometer on which local businesses AI assistants recommend in Portuguese cities, with method, limits and a CC BY 4.0 licence. Not affiliated with HighLevel/GoHighLevel.
