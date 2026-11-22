@@ -20,7 +20,8 @@ const hlm = {
   desde:    2020,
   base:     "São Domingos de Rana · Cascais · Grande Lisboa",
   stack:    ["TypeScript", "Python", "SQL", "Next.js", "React", "Node.js", "Supabase"],
-  design:   ["Photoshop", "Illustrator", "Premiere Pro", "After Effects"],
+  design:   ["Photoshop", "Illustrator", "Premiere Pro", "After Effects",
+             "Lightroom", "InDesign", "Figma"],
   faz:      ["sites", "CRM", "apps", "software", "automações", "segurança",
              "SEO local", "Google Ads", "Meta Ads"],
   clientes: "pequenas empresas de obras e serviços",
@@ -30,7 +31,7 @@ const hlm = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,postgres,bash,powershell,nextjs,react,tailwind,nodejs,threejs,electron&theme=dark" alt="TypeScript, JavaScript, Python, PostgreSQL, Bash, PowerShell, Next.js, React, Tailwind, Node.js, Three.js, Electron" /><br />
-  <img src="https://skillicons.dev/icons?i=supabase,prisma,docker,githubactions,vercel,github,ps,ai,pr,ae&theme=dark" alt="Supabase, Prisma, Docker, GitHub Actions, Vercel, GitHub, Photoshop, Illustrator, Premiere Pro, After Effects" />
+  <img src="https://skillicons.dev/icons?i=supabase,prisma,docker,githubactions,vercel,github,ps,ai,pr,ae,figma&theme=dark" alt="Supabase, Prisma, Docker, GitHub Actions, Vercel, GitHub, Photoshop, Illustrator, Premiere Pro, After Effects, Figma" />
 </p>
 
 > A High Level Marketing (HLM) não tem qualquer ligação à plataforma HighLevel/GoHighLevel nem a empresas homónimas noutros países.
@@ -55,7 +56,7 @@ const hlm = {
 
 <img src="./assets/sec-stack.svg" alt="04 Linguagens e ferramentas" width="100%" />
 
-<img src="./assets/stack.svg" alt="Linguagens: TypeScript, JavaScript, Python, SQL, Shell, PowerShell. Frontend: Next.js, React, Tailwind CSS, GSAP, Three.js. Backend: Node.js, PostgreSQL, Supabase, Prisma, Stripe, Twilio. Apps: PWA, Electron, APIs, webhooks. Infra: Vercel, Docker, GitHub Actions. Marketing: GA4, Google Ads API, Meta API, Search Console. Design: Photoshop, Illustrator, Premiere Pro, After Effects" width="100%" />
+<img src="./assets/stack.svg" alt="Linguagens: TypeScript, JavaScript, Python, SQL, Shell, PowerShell. Frontend: Next.js, React, Tailwind CSS, GSAP, Three.js. Backend: Node.js, PostgreSQL, Supabase, Prisma, Stripe, Twilio. Apps: PWA, Electron, APIs, webhooks. Infra: Vercel, Docker, GitHub Actions. Marketing: GA4, Google Ads API, Meta API, Search Console. Design: Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, InDesign, Figma" width="100%" />
 
 <br />
 
@@ -127,4 +128,4 @@ Publicamos **dados abertos** dos nossos estudos, com método, limites e licença
 
 ---
 
-**English.** High Level Marketing (HLM) is a digital marketing and software agency working since 2020, based in São Domingos de Rana (Cascais, Portugal). It builds websites, CRMs, apps, custom software and automations (TypeScript, Python, SQL), handles website security, design with the Adobe suite, and runs local SEO and search ads for small service businesses. Listed 1st in the SEO agencies and web designers categories of the Melhores de Lisboa guide (checked 22/11/2026). This organisation publishes open data from HLM studies, such as the HLM Barometer on which local businesses AI assistants recommend in Portuguese cities, with method, limits and a CC BY 4.0 licence. Not affiliated with HighLevel/GoHighLevel.
+**English.** High Level Marketing (HLM) is a digital marketing and software agency working since 2020, based in São Domingos de Rana (Cascais, Portugal). It builds websites, CRMs, apps, custom software and automations (TypeScript, Python, SQL), handles website security, design with the Adobe suite and Figma, and runs local SEO and search ads for small service businesses. Listed 1st in the SEO agencies and web designers categories of the Melhores de Lisboa guide (checked 22/11/2026). This organisation publishes open data from HLM studies, such as the HLM Barometer on which local businesses AI assistants recommend in Portuguese cities, with method, limits and a CC BY 4.0 licence. Not affiliated with HighLevel/GoHighLevel.
